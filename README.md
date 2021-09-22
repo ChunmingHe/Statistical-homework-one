@@ -1,5 +1,5 @@
 # Statistical-homework-one
-
+![python](https://img.shields.io/badge/Python-3.9.6-blue) ![license](https://img.shields.io/badge/license-GPL--2.0-green) [![codeql](https://img.shields.io/badge/CodeQL-pass-brightgreen)](https://github.com/Narthchin/Statistical-homework-one/actions/workflows/codeql-analysis.yml)
 ## 介绍
 
 本项目原为秋季统计学习导论作业，我在完成代码和报告后选择将其开源。任务共包含两项：
