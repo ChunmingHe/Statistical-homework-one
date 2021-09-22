@@ -1,5 +1,5 @@
 # Statistical-homework-one
-***
+
 ## 介绍
 
 本项目原为秋季统计学习导论作业，我在完成代码和报告后选择将其开源。任务共包含两项：
@@ -34,8 +34,8 @@ This project is homework 1 of Course 80250272-An Introduction to Statistical Lea
 ## Install
 
 1. Install package according to requirements.txt
-2. Fake news can be downloaded from [Fake news](https://www.kaggle.com/mrisdal/fake-news/data)下载
-3. Real news can be downloaded from [Real news](https://www.kaggle.com/therohk/million-headlines)下载
+2. Fake news can be downloaded from [Fake news](https://www.kaggle.com/mrisdal/fake-news/data)
+3. Real news can be downloaded from [Real news](https://www.kaggle.com/therohk/million-headlines)
 
 ## Usage
 
